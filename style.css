@@ -1,3 +1,8 @@
 body	{ font-family: 'Courier New'; background: black; color: green; display: flex;
   align-items: center;
   justify-content: center;}
+
+div { position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); }
