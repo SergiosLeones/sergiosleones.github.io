@@ -1,9 +1,3 @@
 body	{ font-family: 'Courier New'; background: black; color: green; }
-.main {
-  height: 1000px;
-  display: grid;
-}
-
-.text {
-  margin: auto;
-}
+.main { display: grid; }
+.text { margin: auto; }
