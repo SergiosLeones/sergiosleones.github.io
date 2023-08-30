@@ -1,2 +1,11 @@
-body	{ font-family: 'Courier New'; background: black; color: green; text-align: center; }
-p		{ line-height: 1; }
+body	{ font-family: 'Courier New'; background: black; color: green; }
+.main {
+  height: 100px;
+  display: grid;
+  border: 2px solid blue;
+}
+
+.text {
+  margin: auto;
+  border: 2px solid black;
+}
