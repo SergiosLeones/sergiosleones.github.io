@@ -38,5 +38,5 @@ span.white		{ color: white; }
 
 @font-face {
   font-family: 'Courier New';
-  src: url('../assets/fonts/couriernew.ttf') format('truetype');
+  src: url('couriernew.ttf') format('truetype');
 }
