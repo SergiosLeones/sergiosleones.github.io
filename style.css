@@ -35,3 +35,8 @@ span.white		{ color: white; }
         max-height: 999px;
     }
 }
+
+@font-face {
+  font-family: 'Courier New';
+  src: url('../couriernew.ttf') format('truetype');
+}
